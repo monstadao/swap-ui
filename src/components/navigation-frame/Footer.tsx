@@ -16,7 +16,7 @@ const Footer = () => {
       <div>
         <img src={fida} className="w-10" />
         <p className="font-bold">
-          Bonfida Foundation <br />
+          MonstaSWAP poweredby Bonfida Foundation & Jupiter Aggregrator<br />
         </p>
       </div>
       <div>
