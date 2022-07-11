@@ -1,7 +1,7 @@
 <h1 align="center">Swap UI</h1>
 <br />
 <p align="center">
-<img width="250" src="https://ftx.com/static/media/fida.ce20eedf.svg"/>
+<img width="250" src="https://i.imgur.com/nn7LMNV.png"/>
 </p>
 <p align="center">
 <a href="https://twitter.com/bonfida">
@@ -21,7 +21,7 @@
 <br />
 
 ```
-git clone https://github.com/Bonfida/swap-ui
+git clone https://github.com/Bonfida/swap-ui.git
 cd swap-ui
 yarn
 yarn dev
